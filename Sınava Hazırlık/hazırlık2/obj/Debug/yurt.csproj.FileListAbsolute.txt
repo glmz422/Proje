@@ -1,0 +1,11 @@
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\bin\Debug\yurt.exe.config
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\bin\Debug\yurt.exe
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\bin\Debug\yurt.pdb
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\obj\Debug\yurt.csproj.AssemblyReference.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\obj\Debug\yurt.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\obj\Debug\yurt.Form1.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\obj\Debug\yurt.Properties.Resources.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\obj\Debug\yurt.csproj.GenerateResource.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\obj\Debug\yurt.csproj.CoreCompileInputs.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\obj\Debug\yurt.exe
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yurt\obj\Debug\yurt.pdb
