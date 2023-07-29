@@ -1,0 +1,16 @@
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\bin\x64\Debug\yigit.exe.config
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\bin\x64\Debug\yigit.exe
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\bin\x64\Debug\yigit.pdb
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.csproj.AssemblyReference.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.Form1.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.Properties.Resources.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.csproj.GenerateResource.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.csproj.CoreCompileInputs.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.exe
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.pdb
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.Form2.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.Form3.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.Form4.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.Form5.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\yigit\yigit\obj\x64\Debug\yigit.Form6.resources
