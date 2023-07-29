@@ -1,0 +1,7 @@
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\odev\odev\obj\Debug\odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\odev\odev\obj\Debug\odev.Form1.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\odev\odev\obj\Debug\odev.Form2.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
