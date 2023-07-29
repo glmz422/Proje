@@ -1,0 +1,34 @@
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\bin\x64\Debug\ApartmanY.exe.config
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\bin\x64\Debug\ApartmanY.exe
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\bin\x64\Debug\ApartmanY.pdb
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.csproj.AssemblyReference.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form1.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Properties.Resources.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.csproj.GenerateResource.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.csproj.CoreCompileInputs.cache
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.exe
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.pdb
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form2.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form3.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form4.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form6.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form5.resources
+C:\Users\gulme\OneDrive\Masaüstü\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form7.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\bin\x64\Debug\ApartmanY.exe.config
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\bin\x64\Debug\ApartmanY.exe
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\bin\x64\Debug\ApartmanY.pdb
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.csproj.AssemblyReference.cache
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.csproj.SuggestedBindingRedirects.cache
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form1.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form2.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form3.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form4.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form5.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form6.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Form7.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.Properties.Resources.resources
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.csproj.GenerateResource.cache
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.csproj.CoreCompileInputs.cache
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.exe
+C:\Users\Talha PC\Desktop\c#\başlangıç2\ApartmanY\ApartmanY\obj\x64\Debug\ApartmanY.pdb
